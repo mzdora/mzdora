@@ -1,4 +1,11 @@
-### Hi there 👋
+Hello there. I'm Mzdora.
+I'm a Developer from China.
+
+\#java,#C++, #C, #Python
+
+![catcat](https://github.com/mzdora/photobed/blob/master/catcat.gif?raw=true)
+
+
 
 <!--
 **mzdora/mzdora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
