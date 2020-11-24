@@ -1,7 +1,7 @@
-Hello there. I'm Mzdora.
-I'm a Developer from China.
-
-\#java,#C++, #C, #Python
+😄Hello there. I'm Mzdora.
+✨A Developer from China.
+🔭 I’m currently working on C-Editor and implement a self Spring MVC.
+#java, #C++, #C, #Python
 
 ![catcat](https://github.com/mzdora/photobed/blob/master/catcat.gif?raw=true)
 
